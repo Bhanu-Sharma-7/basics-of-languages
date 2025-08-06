@@ -1,4 +1,4 @@
-# 🚀 Basics of Python Programming Languages
+# 🚀 Basics of Programming Languages
 
 A beginner-friendly repository that contains **basic syntax and fundamental programs** of popular programming languages including **Python, C++, Java, and JavaScript**.
 
