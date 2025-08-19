@@ -128,6 +128,3 @@ f-string is clean, modern and recommended way.
 
 
 ---
-
-Next Step: Practice using these concepts with your own variables and messages. Agar PDF ya practice exercise chahiye ho to bolo! 🚀
-
